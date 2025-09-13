@@ -1,7 +1,0 @@
-Copyright © 2025 Mohiba Ansari. All rights reserved.
-
-This repository contains code developed as part of the research project
-“Anomaly Detection in IIoT Networks”.
-
-You may view this code on GitHub but you may not copy, use, modify,
-or distribute any part of it without prior written permission from the author.
