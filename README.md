@@ -7,13 +7,13 @@ I have built it in two ways:
 
 ---
 
-#Project Structure
+Project Structure
 - centralized_model/ → contains the centralized approach (Isolation Forest + Autoencoder, optimized with XGBoost).  
 - federated_model/ → contains the federated learning approach using Flower.   
 
 ---
 
-#Dataset
+Dataset
 The dataset is too large (390 MB) to upload here.  
 You can download it from Google Drive:  
 
